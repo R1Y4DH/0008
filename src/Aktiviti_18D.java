@@ -39,3 +39,4 @@ public static void main(String[]args){
     System.out.println("Luas 1 Pintu 2 Tingkap Sama Saiz 4 Sisi Dinding Sama Saiz : " +jawapan);
     }
 }
+I leave the rest
